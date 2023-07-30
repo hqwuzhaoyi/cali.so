@@ -1,5 +1,5 @@
 {
-  "name": "cali.so",
+  "name": "prajnax.com",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -10,7 +10,7 @@
     "dev:email": "email dev -p 3333",
     "dev:turbo": "next dev --turbo",
     "lint": "next lint",
-    "start": "next start"
+    "start": "next start -p 3006"
   },
   "dependencies": {
     "@clerk/nextjs": "^4.21.10",

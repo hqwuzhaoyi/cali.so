@@ -44,7 +44,7 @@ export const metadata: Metadata = {
     siteName: 'Cali Castle',
     locale: 'zh_CN',
     type: 'website',
-    url: 'https://cali.so',
+    url: 'https://prajnax.com',
   },
   twitter: {
     site: '@thecalicastle',
